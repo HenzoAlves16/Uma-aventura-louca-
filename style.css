@@ -1,0 +1,34 @@
+body{
+    background-color: blueviolet;
+    color:white;
+    font-family: "SUSE", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: aquamarine;
+    color: black;
+    font-family: "SUSE", sans-serif;
+}
+
+.passo{
+    display:none ;
+}
+
+.passo.ativo{
+    display: block;
+}
+
+main{
+    max-width: 90%;
+    text-align: center;
+}
+
+img{
+    max-width: 90%;
+}
+
